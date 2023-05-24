@@ -1,0 +1,28 @@
+body
+{
+    padding: 0 0 0 0;
+}
+img #banners /*Combinador descendiente */
+{
+    width: 291px;
+    height: 58px;
+}
+#banners
+{
+    background-color: bisque;
+    padding: 0px 2px;
+}
+
+#titulo-pagina
+{
+    background-color: #7B973F;
+    color: white;
+    font-size: 16px;
+    font-family: 'Exo 2', sans-serif;
+}
+
+#descripcion-concurso img
+{
+    max-width: 100%;
+    height: auto;
+}
